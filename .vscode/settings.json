@@ -1,0 +1,6 @@
+{
+    "dotnet.preferCSharpExtension": true,
+    "workbench.colorTheme": "Visual Studio 2019 Dark",
+    "dotnet.defaultSolution": "disable",
+    "git.ignoreLimitWarning": true
+}
